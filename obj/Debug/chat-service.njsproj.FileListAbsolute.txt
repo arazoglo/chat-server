@@ -1,0 +1,1 @@
+C:\Users\Majid\Documents\Visual Studio 2013\Projects\NodeJS\chat-service\bin\Microsoft.NodejsTools.WebRole.dll
