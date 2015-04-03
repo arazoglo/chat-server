@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>2da0f375-1a45-475c-96d8-cc9a66e0d3ab</TargetProject>
+    <FriendlyName>chat-service</FriendlyName>
+  </ProjectTarget>
+</ProfilingTarget>

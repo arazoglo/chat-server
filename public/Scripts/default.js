@@ -3,7 +3,7 @@
 var socket;
 
 $(document).ready(function () {
-    socket = io.connect('http://localhost:8080');
+    socket = io.connect('http://ARAZ-SAMSUNG:8080');
     socket.on('connect', addUser);
     socket.on('updatechat', processMessage);
     socket.on('updateusers', updateUserList);
